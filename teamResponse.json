@@ -1,0 +1,8 @@
+[
+	{
+		'userId':'1232','userName':'user1','role':'Admin','approver':true
+	},
+	{
+		'userId':'2232','userName':'user2','role':'Manager','approver':false
+	}
+]

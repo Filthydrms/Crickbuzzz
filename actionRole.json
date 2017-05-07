@@ -1,0 +1,49 @@
+{
+	"roles":[
+				{
+					"name":"role1",
+					"description":"OEM Administrator"
+				},
+				{	
+					"name":"role2",
+					"description":"OEM Category Manager"
+					
+				},
+				{
+					"name":"role3",
+					"description":"OEM Supplier Manager"
+				},
+				{
+					"name":"role4",
+					"description":"OEM Supplier User"
+				}
+		],
+	"screens":
+		[
+				{
+					"screenCode":"BUC-53111111111111",
+					"screenName":"Z",
+					"actionRole":[true,false,true,false]
+				},
+				{
+					"screenCode":"BUC-54",
+					"screenName":"Y",
+					"actionRole":[false,true,false,true]
+				},
+				{
+					"screenCode":"BUC-55",
+					"screenName":"Y",
+					"actionRole":[true,true,false,true]
+				},
+				{
+					"screenCode":"BUC-56",
+					"screenName":"Y",
+					"actionRole":[false,true,true,false]
+				},
+				{
+					"screenCode":"BUC-57",
+					"screenName":"Y",
+					"actionRole":[true,false,false,true]
+				}
+		]
+}

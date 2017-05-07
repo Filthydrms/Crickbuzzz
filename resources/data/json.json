@@ -1,0 +1,12 @@
+{
+  "combo": [{
+    "role": "Admin"
+
+  }, {
+    "role": "User"
+
+  }, {
+    "role": "observer"
+
+  }]
+}

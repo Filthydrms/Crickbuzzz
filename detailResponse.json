@@ -1,0 +1,19 @@
+{
+	'purchaseCatId':44444,
+	'code':'electronics1',
+	'name':'electronics appliances',
+	'description':'ABCD',
+	'Status': 'Approved',
+	'teamList':[
+			{
+				'userId':'1232','userName':'Prasun','role':'Admin','approver': true
+			},
+			{
+				'userId':'2232','userName':'Pande','role':'Manager','approver': true
+			}
+		   ],
+	'unspscList':[{
+				'description':'1232','code':'Prasun'
+			}]
+	
+}
